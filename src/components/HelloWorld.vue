@@ -1,7 +1,6 @@
 <template>
   <div>
     <h1>Olá pessoal!!!</h1>
-
     <CcIntro></CcIntro>
   </div>
 </template>
